@@ -8,7 +8,7 @@ Designed and Built with React, TailwindCSS and FakeStoreAPI.
 
 ## Screenshots and demo
 
-![image](https://github.com/MohammedAdhil/nextjs-task/assets/91864779/fad62720-a058-46f1-9bc7-b88d56a35ae3)
+![image](https://github.com/MohammedAdhil/react-ecommerce-app/assets/91864779/d61b7220-cc60-4bbc-80f2-b42c3df54404)
 
 
 
